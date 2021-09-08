@@ -12,6 +12,11 @@
 <br/>
 </p>
 
+## Live
+
+[Quote-Generator](https://dakarakoso.github.io/Quote-Generator/)
+
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
