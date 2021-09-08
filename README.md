@@ -59,4 +59,3 @@ Project Link: [https://github.com/Dakarokoso/Quote-Generator](https://github.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/willian-negishi-2829a4172/
-[product-screenshot]: images/screenshot.png
