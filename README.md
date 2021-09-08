@@ -12,14 +12,13 @@
 <br/>
 </p>
 
-## Live
-
-[Quote-Generator](https://dakarakoso.github.io/Quote-Generator/)
+### LIVE
+https://dakarakoso.github.io/Quote-Generator/
 
 
 <!-- TABLE OF CONTENTS -->
+## Table of contents
 <details open="open">
-  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
