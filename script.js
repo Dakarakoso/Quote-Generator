@@ -49,7 +49,10 @@ const getQuotes = async () => {
     apiQuotes = await response.json();
     newQuote();
   } catch (error) {
-    //   Catch error
+    if (error) {
+      quoteText.textContent = "Ops! Something went wrong! Try again later";
+      authorText.textContent = error;
+    }
   }
 };
 
